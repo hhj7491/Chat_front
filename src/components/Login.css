@@ -1,0 +1,27 @@
+.centered-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.login-form {
+  margin-bottom: 70px;
+}
+
+.msg_center {
+  font-weight: bold;
+}
+
+.msg_box {
+  display: flex;
+  /* justify-content: center; */
+}
+
+.logout-form {
+  margin-bottom: 70px;
+}
+
+.messages {
+  max-width: 40%;
+}
