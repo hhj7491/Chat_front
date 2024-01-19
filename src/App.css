@@ -13,6 +13,13 @@
   }
 }
 
+.username_style {
+  font-size: 9px;
+  position: absolute;
+  top: -5px;
+  left: 0px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
